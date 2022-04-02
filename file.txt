@@ -21,4 +21,8 @@ newer update
 update again
 okeh
 
+<<<<<<< HEAD
 update Noval Akbar Ramadhany
+=======
+update from Fariz313 Origin
+>>>>>>> eb9e5e7d8a9839db71c261b3650946e877261d7b
